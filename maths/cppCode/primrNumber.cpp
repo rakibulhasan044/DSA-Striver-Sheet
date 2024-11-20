@@ -31,6 +31,6 @@ bool isPrimeCheck(int n) {
 }
 
 int main() {
-    int ans = isPrimeCheck(49);
+    int ans = isPrimeCheck(2);
     cout << ans << endl;
 }
