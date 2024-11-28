@@ -1,0 +1,1 @@
+g++ -std=c++11 basic.cpp && ./a.out
