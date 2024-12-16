@@ -60,8 +60,8 @@ vector<int> findUnion(vector<int> &a, vector<int> &b) {
 
 int main() {
 
-    vector<int> a = {1, 2, 3, 4, 5};
-    vector<int> b = {1, 2, 3, 6, 7};
+    vector<int> a = {2, 3, 4, 5};
+    vector<int> b = { 1, 1,1, 6, 7};
 
     vector<int> ans = findUnion(a, b);
     for(auto val : ans) {
