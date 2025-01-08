@@ -43,4 +43,5 @@ int main() {
 
     int ans2 = is_palindrome(3330);
     cout << ans2 << endl;
+    return 0;
 }
