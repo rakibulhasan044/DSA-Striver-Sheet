@@ -6,7 +6,7 @@ using namespace std;
 
 
 //brute force
-int bruteForse(vector<int>& nums) {
+int bruteForce(vector<int>& nums) {
   
     int n = nums.size();
     int longestStreak = 1;
